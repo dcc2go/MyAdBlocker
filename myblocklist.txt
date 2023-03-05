@@ -1,0 +1,57 @@
+!
+! Title: No Google
+! Description: Completely blocks all Google-related domains (including YouTube).
+! Homepage: https://github.com/nickspaargaren/no-google
+! Last modified: 2023-02-24T20:05:58.209Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.12
+! Source name: No Google
+! Source: https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt
+!
+! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
+! Last updated: 2023-02-24
+! Analytics
+||adgoogle.net^
+||analytic-google.com^
+||google-analytics-cn.com^
+||google-analytics.com^
+! DNS
+||ad.youtube.com^
+||ads.youtube.com^
+! Doubleclick
+||ad.doubleclick.net.iberostar.com^
+||anon.doubleclick.speedera.net^
+||doublecklick.net^
+||doubleclick-net.com^
+||doubleclick.com^
+||doubleclick.de^
+||doubleclick.ne.jp^
+||doubleclick.net^
+||doubleclickbygoogle.com^
+||static.doubleclick.netnod^
+! General
+||ads.cc^
+||ads.cc-dt.com^
+||adsense.com^
+||adservice.google.au^
+||adservice.google.aw^
+||adservice.google.ax^
+||adservice.google.br^
+||adservice.google.il^
+||adservice.google.in^
+||adservice.google.jp^
+||adservice.google.ma^
+||adservice.google.pk^
+||adservice.google.tr^
+||adservice.google.tw^
+||adservice.google.ua^
+||adups.com^
+||advertisercommunity.com^
+||adwords.com^
+||google-analytics.bi.owox.com^
+||google.analytics.com^
+||googleadservices.co.uk^
+||googleadservices.org^
+||googleadservices.ru^
+||googleadsserving.cn^
+||googletraveladservices.com^
