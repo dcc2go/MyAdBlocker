@@ -18,6 +18,8 @@
 ! DNS
 ||ad.youtube.com^
 ||ads.youtube.com^
+||ad.google.com^
+||ads.google.com^
 ! Doubleclick
 ||ad.doubleclick.net.iberostar.com^
 ||anon.doubleclick.speedera.net^
