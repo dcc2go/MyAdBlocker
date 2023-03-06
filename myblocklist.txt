@@ -15,6 +15,7 @@
 ||analytic-google.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
+||tagmanager.google.com^
 ! DNS
 ||ad.youtube.com^
 ||ads.youtube.com^
