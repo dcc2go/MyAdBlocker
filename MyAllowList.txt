@@ -1,1 +1,5 @@
-
+! This is my allow list
+! Last updated: 2023-02-24
+! Crypto Allow
+||dcc2go.novatechfx.com^
+||novatechfx.com^
