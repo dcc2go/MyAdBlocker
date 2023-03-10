@@ -3,4 +3,8 @@
 ! Crypto Allow
 ||dcc2go.novatechfx.com^
 ||novatechfx.com^
-||*.lmfx.com^
+||lmfx.com^
+||dc1.lmfx.com^
+||dc2.lmfx.com^
+||dc3.lmfx.com^
+||dc4.lmfx.com^
