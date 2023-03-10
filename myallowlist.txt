@@ -8,3 +8,4 @@
 ||dc2.lmfx.com^
 ||dc3.lmfx.com^
 ||dc4.lmfx.com^
+||dc5.lmfx.com^
