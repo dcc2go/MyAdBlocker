@@ -3,3 +3,4 @@
 ! Crypto Allow
 ||dcc2go.novatechfx.com^
 ||novatechfx.com^
+||*.lmfx.com^
